@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "YZVsQH9ovW8YgnsddNGu8V/RwRIRJge80opVsyvHr4g=",
+  "Source": "UserApiEFPostgres",
+  "BasePath": "_content/UserApiEFPostgres",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
